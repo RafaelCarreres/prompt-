@@ -18,7 +18,7 @@ Prompt+ is a Chrome extension that allows you to easily extract text from the ac
     - To clone this repository, you can use the following command in your terminal:
 
     ```bash
-    git clone https://github.com/RafaelCarreres/chrome-instant-screenshot.git
+    git clone https://github.com/RafaelCarreres/prompt-plus.git
     ```
 
 3. **Load the Extension in Chrome:**
